@@ -1,4 +1,4 @@
-
+﻿
 .container {
   width: 60%;
   margin: auto ;
@@ -70,6 +70,10 @@ li a {
 
 h3 {
   margin: 45px 0 0;
+}
+
+.portfolio-nav ul {
+  padding: 0px;
 }
 
 .container-product {
