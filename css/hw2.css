@@ -79,12 +79,12 @@ li a {
 .col-4 {
   background-image: url(http://placehold.it/280x175);
   float: left;
-  width: 280px;
+  width: 31%;
   height: 175px;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
 }
 .col-4:not(:first-child){
-  margin-left: 20px;
+  margin-left: 3.5%;
 }
 
 .product-graphic {
@@ -92,7 +92,7 @@ li a {
 }
 
 .row{
-  width: 880px;
+  width: 70%;
   height: 100%;
   margin: 0 auto 50px;
 }
