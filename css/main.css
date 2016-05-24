@@ -1,0 +1,44 @@
+
+ul {
+  margin: 0;
+  padding-left: 0;
+}
+
+
+/*header*/
+
+.container {
+  width: 1172px;
+  margin: 0px auto;
+}
+
+#logo {
+  float: left;
+  display: block;
+}
+
+#header nav {
+  float: right;
+}
+
+#header nav li {
+  float: right;
+  line-height: 70px;
+}
+
+#header a {
+  width: 85px;
+  display: block;
+  text-decoration: none;
+  /*color: #fff;*/
+}
+
+#header nav ul {
+  list-style-type: none;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.clearfix {
+  clear: both;
+}
