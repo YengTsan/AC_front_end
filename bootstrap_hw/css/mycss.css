@@ -1,0 +1,28 @@
+.header .desc p {
+  width: 200px;
+}
+
+.intro {
+  margin-top: 50px;
+}
+
+.our-com {
+  background-color: #ccf;
+  /*box-sizing: border-box;*/
+}
+
+.our-com-container {
+  margin-left: 30px;
+
+  width: 90%;
+}
+
+.our-service-img {
+  height: 250px;
+  padding-top: 90px;
+  background-color: brown;
+}
+
+.os-img .glyphicon-heart {
+  font-size: 30px;
+}
