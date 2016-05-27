@@ -163,7 +163,7 @@ nav li {
 
 .w-c2-container {
   width: 78%;
-  margin: 15px auto 0 ;
+  margin: 20px auto 0 ;
 }
 
 .w-c2-container p {
@@ -184,7 +184,7 @@ nav li {
   margin-top: 0px;
   margin-bottom: 0px;
   float: right;
-  font-size: 12px;
+  font-size: 14px;
   width: 290px;
   height: 100%;
 }
@@ -195,12 +195,12 @@ nav li {
 }
 
 .w-c2-container span {
-  font-size: 12px;
+  font-size: 14px;
   line-height: 1.6;
 }
 
 .w-c2-container:first-child {
-  margin-top: 25px;
+  margin-top: 35px;
 }
 
 
