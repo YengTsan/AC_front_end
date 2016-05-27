@@ -1,0 +1,208 @@
+/*branding color
+  #ffc600
+ */
+
+.container {
+  width: 1170px;
+  margin: 0 auto;
+}
+
+.clearfix {
+  clear: both;
+}
+
+.yellow-icon {
+  display: inline-block;
+  background-color: #ffc600;
+  box-sizing: content-box;
+  height: 40px;
+  width: 40px;
+}
+
+.yellow-icon i {
+  font-size: 30px;
+  color: #fff;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.intro {
+  position: relative;
+  text-align: center;
+  margin: 100px auto 50px;
+}
+
+.bridge {
+  position: absolute;
+  top: -25px;
+  right: 556px;
+}
+
+/*header-welcome*/
+
+#header {
+  background-color: #333;
+  color: #9c9c9c;
+  line-height: 40px;
+}
+
+.header-welcome {
+  float: left;
+}
+
+.contect-us .info {
+  float: right;
+}
+
+.info i {
+  margin-left: 30px;
+}
+
+/*header*/
+
+.container .header {
+  margin: 30px 0;
+}
+
+.header-info {
+  float: right;
+  height: 40px;
+  width: 25%;
+}
+
+.header-info .fa-map-o{
+  display: inline-block;
+  float: left;
+  margin: 5px 3px;
+}
+
+.header-info-content {
+  display: inline-block;
+  width: 200px;
+}
+
+.header-info .fa-clock-o {
+  display: inline-block;
+  font-size: 38px;
+  margin: -0px 4px;
+}
+
+.header-info p {
+  font-size: 13px;
+  margin: 4px;
+  line-height: 18px;
+}
+
+
+.header-nav {
+  height: 60px;
+  background-color: #ffc600;
+}
+
+.header-nav ul {
+  line-height: 60px;
+  list-style-type: none;
+  
+}
+
+.header-nav a {
+  display: block;
+}
+
+nav li {
+  float: left;
+  color: #fff;
+  margin-left: 12px;
+  font-size: 16px;
+}
+
+
+
+/*carosel*/
+
+#carousel img {
+  width: 100%;
+}
+
+
+/*welcom*/
+
+.welcom-content {
+  height: 495px;
+}
+
+.w-content1 {
+  width: 49%;
+  float: left;
+}
+
+.w-content1 img {
+  float: right;
+  position: relative;
+
+}
+
+.w-content2 {
+  position: relative;
+  width: 51%;
+  float: right;
+}
+
+.w-c2-content {
+  height: 440px;
+  width: 470px;
+  border: solid #ffc600;
+  border-width: 4px;
+  position: absolute;
+  top: 44px;
+  left: -25px;
+}
+
+.w-c2-container {
+  width: 78%;
+  margin: 15px auto 0 ;
+}
+
+.w-c2-container p {
+  line-height: 1.6;
+}
+
+.w-c2-container .yellow-icon {
+  height: 45px;
+  width: 45px;
+}
+
+.w-c2-container .fa-users {
+  float: left;
+  margin: 6px 6px 0px;
+}
+
+.w-c2-container p {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  float: right;
+  font-size: 12px;
+  width: 290px;
+  height: 100%;
+}
+
+.w-c2-container b {
+  line-height: 2;
+  font-weight: bold;
+}
+
+.w-c2-container span {
+  font-size: 12px;
+  line-height: 1.6;
+}
+
+.w-c2-container:first-child {
+  margin-top: 25px;
+}
+
+
+
+
