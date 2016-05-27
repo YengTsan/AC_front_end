@@ -1,0 +1,32 @@
+
+.container {
+  margin: 0 auto;
+  max-width: 1000px;
+}
+
+.clearfix {
+  clear: both;
+}
+
+.col-4 {
+  float: left;
+  width: 32%;
+  margin-top: 40px;
+  margin-right: 2%;
+}
+
+.col-4:nth-child(3n) {
+  margin-right: 0;
+}
+
+@media (max-width: 1000px) {
+  .col-4 {
+  margin: 0 auto 20px;
+  width: 80%;
+  }
+
+  .row {
+    width: 80%;
+    margin: 0 auto;
+  }
+}

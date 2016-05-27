@@ -17,6 +17,11 @@ ul {
   display: block;
 }
 
+#header {
+  position: fixed;  
+  width: 100%;
+}
+
 #header nav {
   float: right;
 }
@@ -42,3 +47,64 @@ ul {
 .clearfix {
   clear: both;
 }
+
+.header {
+  padding-top: 420px;
+  padding-bottom: 20px;
+  background-color: #978569;
+  color: #fff;
+}
+
+.header h1 {
+  text-align: center;
+  font-size: 60px;
+}
+
+.header .intro {
+  text-align: center;
+  margin-bottom: 220px;
+}
+
+.header a {
+  color: #fff;
+  margin: 0 auto;
+  font-size: 10px;
+  background-color: #965c43;
+  text-decoration: none;
+  padding: 14px 24px;
+}
+
+.header .desc p:nth-child(1) {
+  left: 0;
+  width: 300px;
+}
+
+.header .desc p:nth-child(2) {
+  right: 0;
+}
+
+.header .desc {
+  font-size: 12px;
+  margin: 40px;
+}
+
+.header .desc {
+  position: relative;
+}
+
+.header .desc p{
+  position: absolute;
+  bottom: 0;
+
+}
+
+
+
+
+
+
+
+
+
+
+
